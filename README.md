@@ -200,8 +200,8 @@ ngrok
 
 Built by **Muhammad Junaid**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://pk.linkedin.com/in/muhammadjunaid899)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/junaidshk899)
 
 ---
 
